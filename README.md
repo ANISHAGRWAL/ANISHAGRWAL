@@ -1,4 +1,4 @@
-<p align="center"><img src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/79e26abb3fb85b42f2722cf22da095dc.gif" width="500"/></p>
+![logo](https://github.com/ANISHAGRWAL/ANISHAGRWAL/blob/main/Dark%20Blue%20White%20Futuristic%20Technology%20Company%20Slogan%20LinkedIn%20Background%20Photo.png))
 
 <h1 align="center">Hi 👋, I'm Anish Agarwal</h1>
 <h3 align="center">A passionate Frontend Developer from India</h3>
